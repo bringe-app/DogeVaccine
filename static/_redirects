@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://www.safepoki.com/* https://www.safepoki.com//:splat 301!
