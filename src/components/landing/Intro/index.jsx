@@ -3,7 +3,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll';
 import { ThemeContext } from 'providers/ThemeProvider';
 import { Header } from 'components/theme';
 import { Container, Button } from 'components/common';
-import dev from 'assets/illustrations/dev.svg';
+import poki from 'assets/illustrations/poki.png';
 import { Wrapper, IntroWrapper, Details, Thumbnail } from './styles';
 
 export const Intro = () => {
@@ -21,7 +21,7 @@ export const Intro = () => {
           </Button>
         </Details>
         <Thumbnail>
-          <img src={dev} alt="I’m John and I’m a JAMStack engineer!" />
+          <img src={pokilogo} alt="I’m John and I’m a JAMStack engineer!" />
         </Thumbnail>
       </IntroWrapper>
     </Wrapper>
