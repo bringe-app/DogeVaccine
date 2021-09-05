@@ -70,9 +70,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:dogevaxine/DogeVaccine.git"
+    "url": "git@github.com:bringe-app/DogeVaccine.git"
   },
   "bugs": {
-    "url": "https://github.com/dogevaxine/DogeVaccine/issues"
+    "url": "https://github.com/bringe-app/DogeVaccine/issues"
   }
 }

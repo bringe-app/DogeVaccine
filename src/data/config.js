@@ -7,7 +7,7 @@ module.exports = {
   defaultDescription: '',
   socialLinks: {
     twitter: 'https://twitter.com/dogevax',
-    github: 'https://github.com/dogevaxine/DogeVaccine',
+    github: 'https://github.com/bringe-app/DogeVaccine',
     linkedin: '',
     youtube: '',
     google: 'davideytanohayon@gmail.com',

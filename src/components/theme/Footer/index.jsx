@@ -14,8 +14,8 @@ export const Footer = () => (
             💖
           </span>{' '}
           by{' '}
-          <a href="https://github.com/dogevaxine/" rel="noopener noreferrer" target="_blank">
-            satoshi_david
+          <a href="https://github.com/bringe-app/" rel="noopener noreferrer" target="_blank">
+            satoshi_fanboy_69
           </a>
         </span>
       </Details>
