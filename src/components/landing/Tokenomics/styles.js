@@ -20,11 +20,20 @@ export const TokenomicsWrapper = styled.div`
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 320px;
+    width: 240px;
+  }
+
+  h2 {
+    font-size: 23pt;
+    color: ${({ theme }) => (theme === 'dark' ? '#5F4B0C' : '#212121')};
+
+    @media (max-width: 960px) {
+      mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'hard-light')};
+    }
   }
 `;
 export const InsideWrapper = styled.div`
-  padding: 4rem 0;
+  padding: 0.8rem 0;
   display: flex;
   flex-direction: row;
 

@@ -22,10 +22,12 @@ export const Intro = () => {
         <Details theme={theme}>
           <h1>{'Doge\nVaccine'}</h1>
           <h4>{'Empowering The Doge Community with:\nDoge Vaccine $DGV'}</h4>
-          <h4 id="desc">Doge Vaccine</h4>
           <br />
           <Button as={AnchorLink} href="#contact">
             Contact
+          </Button>
+          <Button as={AnchorLink} href="/" style={{ marginLeft: '24px' }}>
+            DxSale
           </Button>
         </Details>
         <Thumbnail>

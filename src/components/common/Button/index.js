@@ -1,8 +1,10 @@
 import styled from 'styled-components';
 
 export const Button = styled.button`
+  font-size: 20px;
+  font-family: 'Jost Medium';
   cursor: pointer;
-  border-radius: 3px;
+  border-radius: 10px;
   padding: 0.7rem 2.5rem;
   border: none;
   -webkit-appearance: none;
@@ -13,7 +15,7 @@ export const Button = styled.button`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #0074d9;
+  background: #edc531;
 
   &:focus {
     outline: none;
@@ -26,6 +28,6 @@ export const Button = styled.button`
   ${({ secondary }) =>
     secondary &&
     `
-		background: #001F3F;
+		background: #edc531;
 	`}
 `;

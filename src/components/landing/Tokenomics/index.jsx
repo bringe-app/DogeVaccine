@@ -13,24 +13,39 @@ export const Tokenomics = () => (
         <Square>
           <img src={tokenomics1} alt="tokenomics1" />
           <h4>15% Tax on Transactions</h4>
-          <span>5% Liquidity</span>
-          <br />
-          <span>5% Distributed to holders</span>
+          <span>
+            {' '}
+            Transaction fee Taxes 9% from each buy and 9% from each sell will go proportionally to the holders of
+            $DOGEVAC in BUSD. Extra 3% from each transaction will go to the Liquidity Pool and 1% will go to the
+            marketing wallet.
+          </span>
         </Square>
         <br />
         <Square>
           <img src={tokenomics2} alt="tokenomics2" />
           <h4>Original Supply</h4>
-          <span>21 M supply, to honor satoshi.</span>
+          <span>100,000,000,000,000,000</span>
           <br />
-          <span>50% burned and renounced ownership</span>
+          <span>
+            50% Burn
+            <br />
+            10% Liqudity
+            <br />
+            5% for GamePlay
+            <br />
+            4% Buy-Back System
+            <br />
+            2% Marketing
+            <br />
+            1% Airdrop
+          </span>
         </Square>
         <br />
         <Square>
           <img src={tokenomics3} alt="tokenomics3" />
           <h4>Profit</h4>
           <span>
-            We reward holders with a 5% transaction tax which puts $DGV directly into your wallet every time someone
+            We reward holders with a 9% transaction tax which puts $DGV directly into your wallet every time someone
             buys or sells.
           </span>
           <br />
