@@ -12,7 +12,7 @@ export const Tokenomics = () => (
       <InsideWrapper>
         <Square>
           <img src={tokenomics1} alt="tokenomics1" />
-          <h4>15% Tax on Transactions</h4>
+          <h4>9% Tax on Transactions</h4>
           <span>
             {' '}
             Transaction fee Taxes 9% from each buy and 9% from each sell will go proportionally to the holders of
@@ -52,7 +52,7 @@ export const Tokenomics = () => (
           <span>Token address: 0x2C70ab82f01b124a5B21e54EF1751A99b78f4269</span>
         </Square>
       </InsideWrapper>
-      <Square>
+      {/* <Square>
         <h4>How to buy</h4>
         <span>
           Connect your $BNB wallet (metamask, binance smart chain, trust wallet on smartphone and many others) to
@@ -73,7 +73,7 @@ export const Tokenomics = () => (
           height="600"
           title="Pancake Swap Fram"
         ></iframe>
-      </Square>
+      </Square> */}
     </TokenomicsWrapper>
   </Wrapper>
 );

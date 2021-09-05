@@ -46,12 +46,13 @@ export const Vision = () => {
         <Details theme={theme}>
           <h1>Vision</h1>
           <p>
-            DogeVaccine is a Doge community focused crypto, that aims to empower and fuck with doge whales, by enabling
-            transaction fees to be used as payment to vaccinate Shibas, and lets users interact with their Virtual
-            shibas by petting them and talking with them. With DogeVaccine we want to create a new type of currency,
-            specifically aimed at Shiba and science lovers. By using clever Ethereum and Binance smart contract
-            techniques, we will be able to use the funds realized by the use of our coin to create interactive Shiba
-            games, which we will use for generating value in the style of aavegotchi.
+            &#x1f430; DogeVaccine is a Doge &#x1f436; community focused crypto, that aims to empower and fuck &#x1f459;
+            with doge whales, by enabling transaction fees to be used as payment to vaccinate Shibas, and lets users
+            interact with their Virtual shibas by petting them and talking with them. With DogeVaccine &#x1f302; we want
+            to create a new type of currency &#x1f4b8;, specifically aimed at Shiba and science lovers. By using clever
+            Ethereum and Binance smart contract techniques, we will be able to use the funds realized by the use of our
+            coin to create interactive Shiba games, and most importantly, reward HODLERS, which we will use for
+            generating value in the style of aavegotchi &#x1f47b;.
           </p>
         </Details>
       </VisionWrapper>
@@ -72,9 +73,8 @@ export const Vision = () => {
         <Details theme={theme}>
           <h1>Giving back</h1>
           <p>
-            We will be taking almost none of the profits this projects makes, we've renounced ownership and burned 50%
-            of the supply. The lambos are reserved for the users and the streamers 😎. 5% of every transaction goest to
-            holders.
+            9% from each buy and 9% from each sell will go proportionally to the holders of $DGV in BUSD. Extra 3% from
+            each transaction will go to the Liquidity Pool and 1% will go to the marketing wallet.
           </p>
         </Details>
       </VisionWrapper>
