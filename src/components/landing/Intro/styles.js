@@ -2,6 +2,7 @@ import styled from 'styled-components';
 import overlayIllustration from 'assets/illustrations/overlay.svg';
 
 export const Wrapper = styled.div`
+  padding: 2.5rem;
   padding-bottom: 1rem;
   background-image: url(${overlayIllustration});
   background-size: contain;

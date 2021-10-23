@@ -5,7 +5,7 @@ import social from './social.json';
 
 export const Footer = () => (
   <Wrapper>
-    <Flex as={Container}>
+    {/* <Flex as={Container}>
       <Details>
         <h2>DogeVax</h2>
         <span>
@@ -26,6 +26,6 @@ export const Footer = () => (
           </a>
         ))}
       </Links>
-    </Flex>
+    </Flex> */}
   </Wrapper>
 );

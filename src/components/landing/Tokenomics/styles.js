@@ -37,8 +37,8 @@ export const InsideWrapper = styled.div`
   display: flex;
   flex-direction: row;
 
-  @media (max-width: 960px) {
-    flex-direction: row;
+  @media (max-width: 1200px) {
+    flex-direction: column;
   }
 
   iframe {
